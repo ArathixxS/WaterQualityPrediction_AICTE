@@ -1,8 +1,8 @@
 # WaterQualityPrediction_AICTE
-. The project aims to predict multiple water quality parameters using machine learning techniques,specifically MultiOutputRegressor wrapped around a RandomForestRegressor.
+ The project aims to predict multiple water quality parameters using machine learning techniques,specifically MultiOutputRegressor wrapped around a RandomForestRegressor.
 
 # Overview
-Used actual water quality datasets that were already collected and cleaned (preprocessed).
+. Used actual water quality datasets that were already collected and cleaned (preprocessed).
 Applied machine learning techniques (specifically multi-target regression) to predict multiple water quality values at once.
 Created a machine learning pipeline using a MultiOutputRegressor combined with RandomForestRegressor — this means you trained one model that can predict many outputs simultaneously.
 Evaluated how well the model works using standard measures used in regression tasks .
