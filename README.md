@@ -14,17 +14,3 @@
 * Matplotlib, Seaborn – For data visualization
 * Jupyter Notebook – For interactive experimentation and development
 
-# Predicted Water Quality Parameters
-The model predicts multiple water quality parameters such as:
-
-* NH4
-* BOD5 (BSK5)
-* Colloids
-* O2, NO3, NO2, SO4, PO4 and
-* CL
-
-# Model Perfomance
- The model was evaluated using 
- 
-* R² Score
-* Mean Squared Error (MSE)
